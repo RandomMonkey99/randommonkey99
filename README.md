@@ -11,7 +11,7 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/linux-original.svg alt=linux width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/archlinux/archlinux-original.svg alt=linux width="30" height="30"/>
 </p>
 <!-- HIGHLIGHT: previous line --->
 
